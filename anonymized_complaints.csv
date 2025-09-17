@@ -1,0 +1,75 @@
+citizen_name,contact,location,complaint_text,category,priority,department,status
+UserB,1111111111,CityY,garbafge,Other,Low,Customer Service,Registered
+UserA,1111111111,AreaZ,garbage issue,Sanitation and Waste,High,Sanitation Department,Registered
+UserC,9999999999,CityX,There is a water leakage near my house dig 45 saket nagar for 3 days,Water Supply,High,Water Department,Registered
+UserC,9999999999,CityY,Water Leakage in banganga,Water Supply,High,Water Department,Registered
+UserC,0000000000,TownQ,electricity not coming,Electricity,High,Electrical Department,Registered
+UserB,9999999999,CityX,no elctricity,Other,Low,Customer Service,Registered
+UserD,9999999999,CityX,no elctricity,Other,Low,Customer Service,Registered
+UserD,0000000000,CityY,no elctricity,Other,Low,Customer Service,Registered
+UserD,1111111111,CityY,no elctricity,Other,Low,Customer Service,Registered
+UserC,1111111111,CityY,no elctricity,Other,Low,Customer Service,Registered
+UserA,0000000000,TownQ,no elctricity,Other,Low,Customer Service,Registered
+UserC,0000000000,CityX,no elctricity,Other,Low,Customer Service,Registered
+UserB,1111111111,AreaZ,no elctricity,Other,Low,Customer Service,Registered
+UserB,9999999999,CityX,no elctricity,Other,Low,Customer Service,Registered
+UserB,9999999999,CityY,no elctricity,Other,Low,Customer Service,Registered
+UserD,1111111111,CityY,no elctricity,Other,Low,Customer Service,Registered
+UserC,9999999999,AreaZ,no elctricity,Other,Low,Customer Service,Registered
+UserA,0000000000,AreaZ,no elctricity,Other,Low,Customer Service,Registered
+UserB,1111111111,CityY,no elctricity,Other,Low,Customer Service,Registered
+UserB,0000000000,TownQ,no elctricity,Other,Low,Customer Service,Registered
+UserB,0000000000,TownQ,no elctricity,Other,Low,Customer Service,Registered
+UserB,0000000000,CityY,no elctricity,Other,Low,Customer Service,Registered
+UserB,0000000000,CityX,no elctricity,Other,Low,Customer Service,Registered
+UserC,0000000000,AreaZ,no elctricity,Other,Low,Customer Service,Registered
+UserD,0000000000,CityX,no elctricity,Other,Low,Customer Service,Registered
+UserD,9999999999,CityY,electricity not coming,Electricity,High,Electrical Department,Registered
+UserD,0000000000,CityY,Sewage line cracked,Other,Low,Customer Service,Registered
+UserC,0000000000,CityX,Electricity cut,General,,Customer Service,Registered
+UserB,9999999999,CityY,Sewage issue in nn,General,,Customer Service,Registered
+UserD,0000000000,CityX,electricity not there,General,Low,Customer Service,Registered
+UserB,1111111111,TownQ,electricity,Other,Low,Customer Service,Registered
+UserC,0000000000,CityY,Water issue,Other,Low,Customer Service,Registered
+UserC,0000000000,CityX,water issue,Other,Low,Customer Service,Registered
+UserB,0000000000,CityY,water issue,Other,Low,Customer Service,Registered
+UserC,0000000000,CityY,electricity issue in new market,Other,Low,Customer Service,Registered
+UserB,1111111111,TownQ,water issue,Other,Low,Customer Service,Registered
+UserA,1111111111,CityX,water issue,Water Supply,Low,Water Department,Registered
+UserC,1111111111,TownQ,There is no electricity for like 3 hours please look into this matter,Electricity,Low,Electrical Department,Registered
+UserC,0000000000,AreaZ,water issue,Water Supply,Low,Water Department,Registered
+UserA,0000000000,AreaZ,there is no electricity for like 3 hours please look into this matter,Electricity,Low,Electrical Department,Registered
+UserB,1111111111,TownQ,sewage related issue,Water Supply,Low,Water Department,Registered
+UserA,0000000000,CityY,disease spreading malaria here for 2 days a lot of peeps got infected do something !!!!,Public Health,Low,Public Health Department,Registered
+UserB,0000000000,AreaZ,electricity issue,Electricity,Low,Electrical Department,Registered
+UserD,0000000000,TownQ,electricity issue,Electricity,Low,Electrical Department,Registered
+UserB,1111111111,TownQ,electricity issue,Electricity,Low,Electrical Department,Registered
+UserC,0000000000,CityY,mosquito coming,Other,Low,Customer Service,Registered
+UserC,9999999999,TownQ,electricity issue,Electricity,Low,Electrical Department,Registered
+UserC,9999999999,AreaZ,disease coming,Public Health,Low,Public Health Department,Registered
+UserD,0000000000,CityX,electricity issue,Other,Low,Customer Service,Registered
+UserB,1111111111,CityY,disease,Other,Low,Customer Service,Registered
+UserB,1111111111,TownQ,disease,Other,Low,Customer Service,Registered
+UserD,1111111111,AreaZ,electricity issue,Electricity,Low,Electrical Department,Registered
+UserC,1111111111,CityY,electricity issue,Other,Low,Customer Service,Registered
+UserD,0000000000,CityY,electricity issue,Other,Low,Customer Service,Registered
+UserD,0000000000,CityX,electricity issue,Other,Low,Customer Service,Registered
+UserA,0000000000,TownQ,electricity issue,Electricity,Low,Electrical Department,Registered
+UserC,0000000000,CityX,electricity issue,Electricity,Low,Electrical Department,Registered
+UserA,0000000000,CityY,electricity issue,Electricity,Low,Electrical Department,Registered
+UserB,9999999999,CityX,sewage line briken,Other,Low,Customer Service,Registered
+UserC,1111111111,CityY,electricity issue,Electricity,Low,Electrical Department,Registered
+UserC,9999999999,CityY,electricity issue,Electricity,Low,Electrical Department,Registered
+UserD,0000000000,TownQ,electricity issue,Electricity,Low,Electrical Department,Registered
+UserD,9999999999,CityY,sewage issue,Other,Low,Customer Service,Registered
+UserD,9999999999,CityY,electricity,Electricity,Low,Electrical Department,Registered
+UserD,9999999999,CityY,light no,Electricity,Low,Electrical Department,Registered
+UserB,9999999999,TownQ,disease yes,Public Health,Low,Public Health Department,Registered
+UserA,1111111111,TownQ,electricity issue,Electricity,Low,Electrical Department,Registered
+UserA,9999999999,CityY,electricity issue,Electricity,Low,Electrical Department,Registered
+UserA,0000000000,CityY,electricity issue,Electricity,Low,Electrical Department,Registered
+UserD,9999999999,CityX,electricity issue,Electricity,Low,Electrical Department,Registered
+UserD,0000000000,TownQ,electricity issue,Electricity,Low,Electrical Department,Registered
+UserC,1111111111,TownQ,electricity issue,Electricity,Low,Electrical Department,Registered
+UserD,0000000000,TownQ,electricity issue,Electricity,Low,Electrical Department,Registered
+UserD,9999999999,CityX,electricity issue,Electricity,Low,Electrical Department,Registered

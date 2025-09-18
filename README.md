@@ -24,7 +24,8 @@ Grievance Genie is a smart municipal complaint management system that helps citi
 (User complaint is properly classified and a suitable department is assigned)
 
 ![WhatsApp Image 2025-09-18 at 22 06 04_a6f5a5ea](https://github.com/user-attachments/assets/4f8612b0-fd4f-4ada-86fd-46f3ad54f038)
-(SMS is sent to notify the user/complainer)
+(SMS is sent to notify the user/complainer.)
+PS:- In this Screenshot the complaint was different as a twilio registerd phone number was used
 
 
 --->Tech Stack<---

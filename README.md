@@ -1,6 +1,10 @@
+
+
 Grievance Genie 
 
 Grievance Genie is a smart municipal complaint management system that helps citizens easily raise complaints about civic issues and automatically routes them to the correct department using AI.
+
+<img width="2560" height="1440" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/c7eb2122-415a-40b9-963b-08e181b9a403" />
 
 --->Features<---
 
@@ -13,6 +17,10 @@ Grievance Genie is a smart municipal complaint management system that helps citi
 4) Transparent tracking with a list of all registered complaints.
 
 5) Clean and simple UI with a green civic-themed design.
+<img width="2560" height="1440" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/2735b140-528a-4e6f-a920-aca874a1007e" />
+
+<img width="2560" height="1440" alt="Screenshot (226)" src="https://github.com/user-attachments/assets/437d2eb2-9da4-4856-9c0e-7086f4842ce6" />
+
 
 --->Tech Stack<---
 

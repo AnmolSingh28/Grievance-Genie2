@@ -4,7 +4,8 @@ Grievance Genie
 
 Grievance Genie is a smart municipal complaint management system that helps citizens easily raise complaints about civic issues and automatically routes them to the correct department using AI.
 
-<img width="2560" height="1440" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/c7eb2122-415a-40b9-963b-08e181b9a403" />
+<img width="2560" height="1440" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/2735b140-528a-4e6f-a920-aca874a1007e" />
+
 
 --->Features<---
 
@@ -12,14 +13,18 @@ Grievance Genie is a smart municipal complaint management system that helps citi
 
 2) AI-powered text classification automatically assigns complaint categories.
 
-3) Complaints are routed to the correct department (Water, Electricity, Sanitation, etc.).
+3) Complaints are assigned to the correct department (Water, Electricity, Sanitation, etc.).
 
-4) Transparent tracking with a list of all registered complaints.
+4) Transparent tracking with a list or a table of all registered complaints and their respective departments.
 
-5) Clean and simple UI with a green civic-themed design.
-<img width="2560" height="1440" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/2735b140-528a-4e6f-a920-aca874a1007e" />
+5) Clean and simple UI with a green civic themed design.
+
 
 <img width="2560" height="1440" alt="Screenshot (226)" src="https://github.com/user-attachments/assets/437d2eb2-9da4-4856-9c0e-7086f4842ce6" />
+(User complaint is properly classified and a suitable department is assigned)
+
+![WhatsApp Image 2025-09-18 at 22 06 04_a6f5a5ea](https://github.com/user-attachments/assets/4f8612b0-fd4f-4ada-86fd-46f3ad54f038)
+(SMS is sent to notify the user/complainer)
 
 
 --->Tech Stack<---

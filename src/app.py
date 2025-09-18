@@ -12,11 +12,13 @@ app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///grievance_genie.db"
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 migrate = Migrate(app, db)
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
-
-"""TWILIO_ACCOUNT_SID=os.getenv("SID")
-TWILIO_AUTH_TOKEN=os.getenv("TOKEN")
-TWILIO_FROM_NUMBER=os.getenv("NUMBER")"""
+TWILIO_ACCOUNT_SID=os.getenv("TWILIO_SID")
+TWILIO_AUTH_TOKEN=os.getenv("TWILIO_TOKEN")
+TWILIO_FROM_NUMBER=os.getenv("TWILIO_NUMBER")
 
 notifier = Notify(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN, TWILIO_FROM_NUMBER)
 class Complaints(db.Model):

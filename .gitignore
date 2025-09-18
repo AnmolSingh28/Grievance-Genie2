@@ -12,3 +12,4 @@ notify.py
 *.db
 instance/
 src/instance/
+secret.env
